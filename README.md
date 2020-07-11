@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Martin-Philipp 
+### Hi there 👋, I'm Martin-Philipp!
 
-- 🔭 I’m currently working on amazing Bosch products to bring AI into your hands!
+Currently, I work at Bosch as a Trainee in the Junior Managers Programm with a focus on AI and IoT. I want to become a leader in my field to shape solutions at the intersection of data, consumer products & tech to help customers, amaze them and improve their life.
+
+- 🔭 I’m currently working on improving my leadership and project management skills
 - 🌱 I’m currently learning about AzureML Pipelines, embedded Machine Learning on MCU's and time-series data. 
 - 👯 I’m looking to collaborate on improving the website of [Primavera](http://www.primavera-ev.de/en/aboutus/aboutus.html) an awesome charity
 - 🤔 I’m looking for help with customising Jupyter notebook shortcuts on german keyboards....
